@@ -20,7 +20,7 @@ $ pip install --upgrade python-youtube
 Also, you can build this library from source code
 
 ```shell
-$ git clone https://github.com/sns-sdks/python-youtube.git
+$ git clone https://github.com/niwla23/python-youtube-async.git
 $ cd python-youtube
 $ make env
 $ make build

@@ -2,15 +2,15 @@ Python YouTube
 
 A Python wrapper around for YouTube Data API V3.
 
-.. image:: https://github.com/sns-sdks/python-youtube/workflows/Test/badge.svg
-    :target: https://github.com/sns-sdks/python-youtube/actions
+.. image:: https://github.com/niwla23/python-youtube-async/workflows/Test/badge.svg
+    :target: https://github.com/niwla23/python-youtube-async/actions
 
 .. image:: https://img.shields.io/badge/Docs-passing-brightgreen
     :target: https://sns-sdks.github.io/python-youtube/
     :alt: Documentation Status
 
-.. image:: https://codecov.io/gh/sns-sdks/python-youtube/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/sns-sdks/python-youtube
+.. image:: https://codecov.io/gh/niwla23/python-youtube-async/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/niwla23/python-youtube-async
 
 .. image:: https://img.shields.io/pypi/v/python-youtube.svg
     :target: https://img.shields.io/pypi/v/python-youtube
@@ -33,7 +33,7 @@ Library provides an easy way to use YouTube Data API V3.
 Documentation
 =============
 
-You can view the latest ``python-youtube`` documentation at: https://sns-sdks.github.io/python-youtube/.
+You can view the latest ``python-youtube-async`` documentation at: https://sns-sdks.github.io/python-youtube/.
 
 Also view the full ``YouTube DATA API`` docs at: https://developers.google.com/youtube/v3/docs/.
 

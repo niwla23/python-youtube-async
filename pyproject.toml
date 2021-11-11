@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "python-youtube"
+name = "python-youtube-async"
 version = "0.8.1"
 description = "A Python wrapper around for YouTube Data API."
 authors = ["ikaroskun <merle.liukun@gmail.com>"]
 license = "MIT"
-keywords = ["youtube-api", "youtube-v3-api", "youtube-data-api", "youtube-sdk"]
+keywords = ["youtube-api", "youtube-v3-api", "youtube-data-api", "youtube-sdk", "async"]
 readme = "README.rst"
-homepage = "https://github.com/sns-sdks/python-youtube"
-repository = "https://github.com/sns-sdks/python-youtube"
+homepage = "https://github.com/niwla23/python-youtube-async"
+repository = "https://github.com/niwla23/python-youtube-async"
 classifiers = [
     "License :: OSI Approved :: Apache Software License",
     "Programming Language :: Python",

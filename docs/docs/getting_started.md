@@ -59,7 +59,7 @@ In [1]: import pyyoutube
 In [2]: api = pyyoutube.Api(api_key='your api key')
 ```
 
-If you want to get some examples to see, check out the [examples](https://github.com/sns-sdks/python-youtube/tree/master/examples).
+If you want to get some examples to see, check out the [examples](https://github.com/niwla23/python-youtube-async/tree/master/examples).
 
 If you have an opens source application using python-youtube, send me a link, and I am very happy to add a link to it here.
 

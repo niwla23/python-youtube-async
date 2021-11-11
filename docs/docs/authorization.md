@@ -10,13 +10,13 @@ You can see some information at the [Official Documentation](https://developers.
 
 Then you need have an app with the [Access scopes](https://developers.google.com/youtube/v3/guides/auth/server-side-web-apps#identify-access-scopes) approval by YouTube.
 
-If everything goes well. Now let do a simple authorize with `Python-Youtube` library.
+If everything goes well. Now let do a simple authorize with `python-youtube-async` library.
 
 ## Get authorization url
 
 Suppose now we want to get user's permission to manage his youtube account.
 
-For the `Python-YouTube` library, the default scopes are:
+For the `python-youtube-async` library, the default scopes are:
 
 - https://www.googleapis.com/auth/youtube
 - https://www.googleapis.com/auth/userinfo.profile

@@ -86,8 +86,8 @@ Out[2]: 'CAUQAQ'
 ### What's New
 
 Now you can use authorized access token to get your subscriptions.
-You can to the demo [A demo for get my subscription](https://github.com/sns-sdks/python-youtube/blob/master/examples/subscription.py) to see simple usage.
-Or you can see the [subscriptions usage](https://github.com/sns-sdks/python-youtube/blob/master/README.rst#subscriptions) docs.
+You can to the demo [A demo for get my subscription](https://github.com/niwla23/python-youtube-async/blob/master/examples/subscription.py) to see simple usage.
+Or you can see the [subscriptions usage](https://github.com/niwla23/python-youtube-async/blob/master/README.rst#subscriptions) docs.
 
     #43 add api for get my subscriptions
 
@@ -111,7 +111,7 @@ In [3]: len(r.items)
 Out[4]: 73
 ```
 
-You can see the [README](https://github.com/sns-sdks/python-youtube/blob/master/README.rst) to find which methods support this.
+You can see the [README](https://github.com/niwla23/python-youtube-async/blob/master/README.rst) to find which methods support this.
 
 ## Version 0.5.0
 
@@ -119,7 +119,7 @@ You can see the [README](https://github.com/sns-sdks/python-youtube/blob/master/
 
 Now introduce new model ApiResponse representing the response from youtube, so previous usage has been invalidated.
 
-You need to read the docs [README](https://github.com/sns-sdks/python-youtube/blob/master/README.rst) to get the simple new usage.
+You need to read the docs [README](https://github.com/niwla23/python-youtube-async/blob/master/README.rst) to get the simple new usage.
 
 ### What's New
 
